@@ -1,2 +1,3 @@
 # Simple_Calculator
-project
+
+this is a simple calculator copied from git-hub
